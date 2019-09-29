@@ -1,7 +1,8 @@
-Hello! Please Follow These Instruction.
+<h2>Hello! Please Follow These Instruction.</h2>
 
 ----------------------------------------------------------------------------------------------
-METHOD 1 (alias) : 
+
+<h3>METHOD 1 (alias) :</h3> 
 
 1. Move ```alias.sh``` to Home directory.
 2. Type ```leafpad /root/.bashrc``` 
@@ -10,7 +11,8 @@ METHOD 1 (alias) :
 5. Enjoy FREE VPN !!!!! 
 
 -----------------------------------------------------------------------------------------------
-METHOD 2 (manual) :
+
+<h3>METHOD 2 (manual) :</h3>
 
 1. Paste following code in terminal.
 
@@ -25,5 +27,5 @@ METHOD 2 (manual) :
 	
 	PASS = ```64s3hch```
 	
-5. Give it some time till you see "[Day] [Date] [time] 2019 Initialization Sequence Completed".
+5. Give it some time till you see "<i>[Day] [Date] [time] 2019 Initialization Sequence Completed</i>".
 6. Enjoy Free VPN!!!!
