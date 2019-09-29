@@ -35,5 +35,5 @@
 	
 	PASS = ```64s3hch```
 	
-6. Give it some time till you see "<i>[Day] [Date] [time] 2019 Initialization Sequence Completed</i>".
+6. Give it some time till you see "<i>[Day] [Date] [time] [year] Initialization Sequence Completed</i>".
 7. Enjoy Free VPN!!!!
